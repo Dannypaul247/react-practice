@@ -3,7 +3,9 @@ import React from 'react'
 const Natours = () => {
   return (
     <div>
-      Natours Project
+      <header className='header'>
+        Some header text
+      </header>
     </div>
   )
 }
